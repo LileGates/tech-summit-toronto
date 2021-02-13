@@ -35,3 +35,4 @@ All attendees:
 ## Lab Content 
 - [Hands on Lab 100 - Using Docker Hub + Django Poll Application](100.md)
 "Testing out my Git integration" 
+"Testing out my Git integration on 2/13/2021" 
